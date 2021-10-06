@@ -1,1 +1,1 @@
-abcdefgh
+ini text dari latihan git
